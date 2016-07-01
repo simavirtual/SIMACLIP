@@ -4,34 +4,34 @@ git clone https://github.com/simavirtual/SIMACLIP.git
 CLIPPER.FUN
 git clone https://github.com/simavirtual/clipper.fun.git
 SIMA.FUN
-https://github.com/simavirtual/sima.fun.git
+git clone https://github.com/simavirtual/sima.fun.git
 SIMADAT
-https://github.com/simavirtual/simadat.git
+git clone https://github.com/simavirtual/simadat.git
 SIMAMATR
-https://github.com/simavirtual/SIMAMATR
+git clone https://github.com/simavirtual/SIMAMATR
 SIMACONT
-https://github.com/simavirtual/simacont.git
+git clone https://github.com/simavirtual/simacont.git
 SIMACART
-https://github.com/simavirtual/SIMACART
+git clone https://github.com/simavirtual/SIMACART
 SIMAPROF
-https://github.com/simavirtual/simaprof.git
+git clone https://github.com/simavirtual/simaprof.git
 SIMADATA
-https://github.com/simavirtual/simadata.git
+git clone https://github.com/simavirtual/simadata.git
 
 SIMACAFE
-https://github.com/simavirtual/simacafe.git
+git clone https://github.com/simavirtual/simacafe.git
 SIMAASIS
-https://github.com/simavirtual/simaasis.git
+git clone https://github.com/simavirtual/simaasis.git
 SIMATOOL
-https://github.com/simavirtual/simatool.git
+git clone https://github.com/simavirtual/simatool.git
 SIMASOFT
-https://github.com/simavirtual/simasoft.git
+git clone https://github.com/simavirtual/simasoft.git
 SIMA-DOC
-https://github.com/simavirtual/sima-doc.git
+git clone https://github.com/simavirtual/sima-doc.git
 SIMAVOTO
-https://github.com/simavirtual/simavoto.git
+git clone https://github.com/simavirtual/simavoto.git
 SIMAPARK
-https://github.com/simavirtual/simapark.git
+git clone https://github.com/simavirtual/simapark.git
 
 
 
