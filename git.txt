@@ -8,11 +8,11 @@ git clone https://github.com/simavirtual/sima.fun.git
 SIMADAT
 git clone https://github.com/simavirtual/simadat.git
 SIMAMATR
-git clone https://github.com/simavirtual/SIMAMATR
+git clone https://github.com/simavirtual/SIMAMATR.git
 SIMACONT
 git clone https://github.com/simavirtual/simacont.git
 SIMACART
-git clone https://github.com/simavirtual/SIMACART
+git clone https://github.com/simavirtual/SIMACART.git
 SIMAPROF
 git clone https://github.com/simavirtual/simaprof.git
 SIMADATA
