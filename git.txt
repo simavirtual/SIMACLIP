@@ -1,3 +1,6 @@
+APLICA.DOS
+https://github.com/simavirtual/aplicados.git
+
 SIMACLIP
 git clone https://github.com/simavirtual/SIMACLIP.git
 
