@@ -1,5 +1,5 @@
 SIMACLIP
-https://github.com/simavirtual/SIMACLIP.git
+git clone https://github.com/simavirtual/SIMACLIP.git
 
 CLIPPER.FUN
 git clone https://github.com/simavirtual/clipper.fun.git
